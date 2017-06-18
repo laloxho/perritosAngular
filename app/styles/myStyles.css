@@ -1,0 +1,19 @@
+h1 { 
+  color: pink; 
+}
+
+img { 
+  border: solid 1px red; 
+  position: absolute; 
+  top: 150px; 
+  right: 200px; 
+  width: 200px; 
+} 
+
+h2 { 
+  color: green; 
+} 
+
+body {
+  margin-left: 200px;
+}

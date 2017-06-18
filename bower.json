@@ -1,0 +1,25 @@
+{
+  "name": "primerProyectiAngular",
+  "homepage": "https://github.com/laloxho/mapsproject",
+  "authors": [
+    "Eduardo <jezamorano_0606@outlook.com>"
+  ],
+  "description": "un bonito hola mundo",
+  "main": "",
+  "keywords": [
+    "curso",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
